@@ -1,12 +1,14 @@
 # cartstock_system
 Ecommerce Full Version 1
 
-System Account
+# System Account
 
-Administrator
+# Administrator
 Username : admin 
+
 Password : 123456
 
-Customer 
+# Customer 
 Username : user 
+
 Password : 123456
