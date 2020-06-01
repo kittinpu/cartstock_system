@@ -1,26 +1,12 @@
 # cartstock_system
-<<<<<<< Updated upstream
- Ecommerce Full Version1
+Ecommerce Full Version 1
 
 System Account
 
-==========
-
 Administrator
-
-Username : admin
-
+Username : admin 
 Password : 123456
 
-==========
-
-Customer
-
-Username : user
-
+Customer 
+Username : user 
 Password : 123456
-
-==========
-=======
- Ecommerce Full Version1
->>>>>>> Stashed changes
